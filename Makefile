@@ -9,3 +9,4 @@ build:
  
 push:
 	docker push ${DOCKER_USERNAME}/${APPLICATION_NAME}:${GIT_HASH}
+
